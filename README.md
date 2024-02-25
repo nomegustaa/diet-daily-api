@@ -34,14 +34,15 @@
 
 ## Estrutura do Projeto
 
-/src/
-├── /config/
-├── /connections/
-├── /controllers/
-├── /helpers/
-├── /middlewares/            
-├── /routes/
-├── /services/
+| Diretório   |
+|-------------|
+| config      | 
+| connections |
+| controllers |
+| helpers     |
+| middlewares |
+| routes      |
+| services    |
 
 ## Variavels de ambiemte que você vai precisar
 
@@ -56,7 +57,7 @@
 ## Configuração
 
 1. Clonar o repositório:
-- git clone https://github.com/seu-usuario/daily-diet-api.git
+- git clone https://github.com/nomegustaa/daily-diet-api.git
 
 2. Instalar as dependências:
 - npm install ou yarn install
