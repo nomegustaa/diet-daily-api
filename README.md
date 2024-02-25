@@ -57,7 +57,7 @@
 ## Configuração
 
 1. Clonar o repositório:
-- git clone https://github.com/nomegustaa/daily-diet-api.git
+- git clone [https://github.com/nomegustaa/daily-diet-api.git](https://github.com/nomegustaa/diet-daily-api)
 
 2. Instalar as dependências:
 - npm install ou yarn install
